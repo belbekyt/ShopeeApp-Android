@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopee Project</string>
+    <string name="additions">ADDITIONS</string>
+    <string name="mouse">Mouse Logitech G102 (+ 109zł)</string>
+    <string name="webcam">Webcam (+ 49zł)</string>
+    <string name="price">PRICE</string>
+    <string name="order">ORDER</string>
+    <string name="keyboard">Keyboard Razer Chroma V2 (+ 329zł)</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="name">Your name</string>
+    <string name="surname">Your surname</string>
+</resources>
